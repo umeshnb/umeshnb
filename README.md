@@ -26,10 +26,10 @@
 <a href="https://youtube.com/@gupta07ayush"> <img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> </a>&nbsp;&nbsp;
 <a href="https://ayush07gupta.wordpress.com/"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>&nbsp;&nbsp;
 
-<!-- wordpress blog -->
+<!-- wordpress blog 
 ### 📝 I regularly write articles on [https://ayush07gupta.wordpress.com/](https://ayush07gupta.wordpress.com/)
 <hr></hr
-
+-->
 
 <!-- Most used languages -->
 <p><img align="left" width="39%" height="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gupta07ayush&theme=radical&title_color=ff3068&show_icons=true&locale=en&layout=compact&hide=PowerShell,nix,shell&langs_count=6" alt="gupta07ayush" /></p>
