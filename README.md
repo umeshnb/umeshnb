@@ -5,9 +5,9 @@
 
 
 
-<!-- Hi I am Ayush Gupta -->
-<h1 align="center">Hey🙋🏻, I'm Ayush Gupta</h1>
-<h3 align="center">A Python Developer </h3> 
+<!-- Hi I am Umesh Bhuvibhar -->
+<h1 align="center">Hey🙋🏻, I'm Umesh </h1>
+<h3 align="center">A MERN Developer </h3> 
 
 
 <!-- wakatime -->
